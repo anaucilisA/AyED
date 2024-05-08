@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\silicuana2015\Etapa0\1_silicuana_HolaNombre\1_silicuana_HolaNombre\bin\Debug\1_silicuana_HolaNombre.exe.config
+C:\Users\Andy\Documents\silicuana2015\Etapa0\1_silicuana_HolaNombre\1_silicuana_HolaNombre\bin\Debug\1_silicuana_HolaNombre.exe
+C:\Users\Andy\Documents\silicuana2015\Etapa0\1_silicuana_HolaNombre\1_silicuana_HolaNombre\bin\Debug\1_silicuana_HolaNombre.pdb
+C:\Users\Andy\Documents\silicuana2015\Etapa0\1_silicuana_HolaNombre\1_silicuana_HolaNombre\obj\Debug\1_silicuana_HolaNombre.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\silicuana2015\Etapa0\1_silicuana_HolaNombre\1_silicuana_HolaNombre\obj\Debug\1_silicuana_HolaNombre.exe
+C:\Users\Andy\Documents\silicuana2015\Etapa0\1_silicuana_HolaNombre\1_silicuana_HolaNombre\obj\Debug\1_silicuana_HolaNombre.pdb
