@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\silicuana2015\Etapa1\19_Silicuana_HastaN\19_Silicuana_HastaN\bin\Debug\19_Silicuana_HastaN.exe.config
+C:\Users\Andy\Documents\silicuana2015\Etapa1\19_Silicuana_HastaN\19_Silicuana_HastaN\bin\Debug\19_Silicuana_HastaN.exe
+C:\Users\Andy\Documents\silicuana2015\Etapa1\19_Silicuana_HastaN\19_Silicuana_HastaN\bin\Debug\19_Silicuana_HastaN.pdb
+C:\Users\Andy\Documents\silicuana2015\Etapa1\19_Silicuana_HastaN\19_Silicuana_HastaN\obj\Debug\19_Silicuana_HastaN.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\silicuana2015\Etapa1\19_Silicuana_HastaN\19_Silicuana_HastaN\obj\Debug\19_Silicuana_HastaN.exe
+C:\Users\Andy\Documents\silicuana2015\Etapa1\19_Silicuana_HastaN\19_Silicuana_HastaN\obj\Debug\19_Silicuana_HastaN.pdb
