@@ -1,0 +1,7 @@
+C:\Users\Andy\Documents\silicuana2015\Etapa1\15_silicuana_CuentaRegresiva\15_silicuana_CuentaRegresiva\bin\Debug\15_silicuana_CuentaRegresiva.exe.config
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa1\15_silicuana_CuentaRegresiva\15_silicuana_CuentaRegresiva\bin\Debug\15_silicuana_CuentaRegresiva.exe.config
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa1\15_silicuana_CuentaRegresiva\15_silicuana_CuentaRegresiva\bin\Debug\15_silicuana_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa1\15_silicuana_CuentaRegresiva\15_silicuana_CuentaRegresiva\bin\Debug\15_silicuana_CuentaRegresiva.pdb
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa1\15_silicuana_CuentaRegresiva\15_silicuana_CuentaRegresiva\obj\Debug\15_silicuana_CuentaRegresiva.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa1\15_silicuana_CuentaRegresiva\15_silicuana_CuentaRegresiva\obj\Debug\15_silicuana_CuentaRegresiva.exe
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa1\15_silicuana_CuentaRegresiva\15_silicuana_CuentaRegresiva\obj\Debug\15_silicuana_CuentaRegresiva.pdb
