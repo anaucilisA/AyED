@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\silicuana2015\18_silicuana_HastaQueSI\18_silicuana_HastaQueSI\bin\Debug\18_silicuana_HastaQueSI.exe.config
+C:\Users\Andy\Documents\silicuana2015\18_silicuana_HastaQueSI\18_silicuana_HastaQueSI\bin\Debug\18_silicuana_HastaQueSI.exe
+C:\Users\Andy\Documents\silicuana2015\18_silicuana_HastaQueSI\18_silicuana_HastaQueSI\bin\Debug\18_silicuana_HastaQueSI.pdb
+C:\Users\Andy\Documents\silicuana2015\18_silicuana_HastaQueSI\18_silicuana_HastaQueSI\obj\Debug\18_silicuana_HastaQueSI.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\silicuana2015\18_silicuana_HastaQueSI\18_silicuana_HastaQueSI\obj\Debug\18_silicuana_HastaQueSI.exe
+C:\Users\Andy\Documents\silicuana2015\18_silicuana_HastaQueSI\18_silicuana_HastaQueSI\obj\Debug\18_silicuana_HastaQueSI.pdb
