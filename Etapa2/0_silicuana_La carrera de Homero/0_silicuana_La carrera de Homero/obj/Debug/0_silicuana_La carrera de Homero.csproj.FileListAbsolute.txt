@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa 2\0_silicuana_La carrera de Homero\0_silicuana_La carrera de Homero\bin\Debug\0_silicuana_La carrera de Homero.exe.config
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa 2\0_silicuana_La carrera de Homero\0_silicuana_La carrera de Homero\bin\Debug\0_silicuana_La carrera de Homero.exe
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa 2\0_silicuana_La carrera de Homero\0_silicuana_La carrera de Homero\bin\Debug\0_silicuana_La carrera de Homero.pdb
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa 2\0_silicuana_La carrera de Homero\0_silicuana_La carrera de Homero\obj\Debug\0_silicuana_La carrera de Homero.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa 2\0_silicuana_La carrera de Homero\0_silicuana_La carrera de Homero\obj\Debug\0_silicuana_La carrera de Homero.exe
+C:\Users\alumno.ET37\Downloads\Laboratorio.Porgramacion\silicuana2015\Etapa 2\0_silicuana_La carrera de Homero\0_silicuana_La carrera de Homero\obj\Debug\0_silicuana_La carrera de Homero.pdb

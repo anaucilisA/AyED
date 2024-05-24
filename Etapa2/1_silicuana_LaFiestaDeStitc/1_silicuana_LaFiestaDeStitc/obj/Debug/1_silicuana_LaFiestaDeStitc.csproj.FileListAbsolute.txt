@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa2\1_silicuana_LaFiestaDeStitc\1_silicuana_LaFiestaDeStitc\bin\Debug\1_silicuana_LaFiestaDeStitc.exe.config
+C:\Users\alumno.ET37\Documents\Etapa2\1_silicuana_LaFiestaDeStitc\1_silicuana_LaFiestaDeStitc\bin\Debug\1_silicuana_LaFiestaDeStitc.exe
+C:\Users\alumno.ET37\Documents\Etapa2\1_silicuana_LaFiestaDeStitc\1_silicuana_LaFiestaDeStitc\bin\Debug\1_silicuana_LaFiestaDeStitc.pdb
+C:\Users\alumno.ET37\Documents\Etapa2\1_silicuana_LaFiestaDeStitc\1_silicuana_LaFiestaDeStitc\obj\Debug\1_silicuana_LaFiestaDeStitc.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa2\1_silicuana_LaFiestaDeStitc\1_silicuana_LaFiestaDeStitc\obj\Debug\1_silicuana_LaFiestaDeStitc.exe
+C:\Users\alumno.ET37\Documents\Etapa2\1_silicuana_LaFiestaDeStitc\1_silicuana_LaFiestaDeStitc\obj\Debug\1_silicuana_LaFiestaDeStitc.pdb

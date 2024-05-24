@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa2\2_silicuana_ElRayoCarerraVelo\2_silicuana_ElRayoCarerraVelo\bin\Debug\2_silicuana_ElRayoCarerraVelo.exe.config
+C:\Users\alumno.ET37\Documents\Etapa2\2_silicuana_ElRayoCarerraVelo\2_silicuana_ElRayoCarerraVelo\bin\Debug\2_silicuana_ElRayoCarerraVelo.exe
+C:\Users\alumno.ET37\Documents\Etapa2\2_silicuana_ElRayoCarerraVelo\2_silicuana_ElRayoCarerraVelo\bin\Debug\2_silicuana_ElRayoCarerraVelo.pdb
+C:\Users\alumno.ET37\Documents\Etapa2\2_silicuana_ElRayoCarerraVelo\2_silicuana_ElRayoCarerraVelo\obj\Debug\2_silicuana_ElRayoCarerraVelo.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa2\2_silicuana_ElRayoCarerraVelo\2_silicuana_ElRayoCarerraVelo\obj\Debug\2_silicuana_ElRayoCarerraVelo.exe
+C:\Users\alumno.ET37\Documents\Etapa2\2_silicuana_ElRayoCarerraVelo\2_silicuana_ElRayoCarerraVelo\obj\Debug\2_silicuana_ElRayoCarerraVelo.pdb
