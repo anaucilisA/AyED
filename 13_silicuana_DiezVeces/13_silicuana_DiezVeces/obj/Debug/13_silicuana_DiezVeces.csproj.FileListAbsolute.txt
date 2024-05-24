@@ -1,0 +1,6 @@
+C:\Users\Andy\Documents\silicuana2015\Etapa1\13_silicuana_DiezVeces\13_silicuana_DiezVeces\bin\Debug\13_silicuana_DiezVeces.exe.config
+C:\Users\Andy\Documents\silicuana2015\Etapa1\13_silicuana_DiezVeces\13_silicuana_DiezVeces\bin\Debug\13_silicuana_DiezVeces.exe
+C:\Users\Andy\Documents\silicuana2015\Etapa1\13_silicuana_DiezVeces\13_silicuana_DiezVeces\bin\Debug\13_silicuana_DiezVeces.pdb
+C:\Users\Andy\Documents\silicuana2015\Etapa1\13_silicuana_DiezVeces\13_silicuana_DiezVeces\obj\Debug\13_silicuana_DiezVeces.csprojResolveAssemblyReference.cache
+C:\Users\Andy\Documents\silicuana2015\Etapa1\13_silicuana_DiezVeces\13_silicuana_DiezVeces\obj\Debug\13_silicuana_DiezVeces.exe
+C:\Users\Andy\Documents\silicuana2015\Etapa1\13_silicuana_DiezVeces\13_silicuana_DiezVeces\obj\Debug\13_silicuana_DiezVeces.pdb
