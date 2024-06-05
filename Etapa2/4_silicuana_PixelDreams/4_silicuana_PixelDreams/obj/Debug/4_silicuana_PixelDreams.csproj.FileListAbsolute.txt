@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\e2\4_silicuana_PixelDreams\4_silicuana_PixelDreams\bin\Debug\4_silicuana_PixelDreams.exe.config
+C:\Users\alumno.ET37\Documents\e2\4_silicuana_PixelDreams\4_silicuana_PixelDreams\bin\Debug\4_silicuana_PixelDreams.exe
+C:\Users\alumno.ET37\Documents\e2\4_silicuana_PixelDreams\4_silicuana_PixelDreams\bin\Debug\4_silicuana_PixelDreams.pdb
+C:\Users\alumno.ET37\Documents\e2\4_silicuana_PixelDreams\4_silicuana_PixelDreams\obj\Debug\4_silicuana_PixelDreams.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\e2\4_silicuana_PixelDreams\4_silicuana_PixelDreams\obj\Debug\4_silicuana_PixelDreams.exe
+C:\Users\alumno.ET37\Documents\e2\4_silicuana_PixelDreams\4_silicuana_PixelDreams\obj\Debug\4_silicuana_PixelDreams.pdb
