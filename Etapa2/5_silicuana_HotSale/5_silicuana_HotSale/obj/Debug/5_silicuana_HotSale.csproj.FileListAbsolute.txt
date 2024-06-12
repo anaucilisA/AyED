@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\e2\5_silicuana_HotSale\5_silicuana_HotSale\bin\Debug\5_silicuana_HotSale.exe.config
+C:\Users\alumno.ET37\Documents\e2\5_silicuana_HotSale\5_silicuana_HotSale\bin\Debug\5_silicuana_HotSale.exe
+C:\Users\alumno.ET37\Documents\e2\5_silicuana_HotSale\5_silicuana_HotSale\bin\Debug\5_silicuana_HotSale.pdb
+C:\Users\alumno.ET37\Documents\e2\5_silicuana_HotSale\5_silicuana_HotSale\obj\Debug\5_silicuana_HotSale.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\e2\5_silicuana_HotSale\5_silicuana_HotSale\obj\Debug\5_silicuana_HotSale.exe
+C:\Users\alumno.ET37\Documents\e2\5_silicuana_HotSale\5_silicuana_HotSale\obj\Debug\5_silicuana_HotSale.pdb

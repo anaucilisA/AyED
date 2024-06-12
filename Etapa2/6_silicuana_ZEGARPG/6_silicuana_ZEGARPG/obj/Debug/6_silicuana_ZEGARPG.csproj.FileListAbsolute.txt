@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa\6_silicuana_ZEGARPG\6_silicuana_ZEGARPG\bin\Debug\6_silicuana_ZEGARPG.exe.config
+C:\Users\alumno.ET37\Documents\Etapa\6_silicuana_ZEGARPG\6_silicuana_ZEGARPG\bin\Debug\6_silicuana_ZEGARPG.exe
+C:\Users\alumno.ET37\Documents\Etapa\6_silicuana_ZEGARPG\6_silicuana_ZEGARPG\bin\Debug\6_silicuana_ZEGARPG.pdb
+C:\Users\alumno.ET37\Documents\Etapa\6_silicuana_ZEGARPG\6_silicuana_ZEGARPG\obj\Debug\6_silicuana_ZEGARPG.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa\6_silicuana_ZEGARPG\6_silicuana_ZEGARPG\obj\Debug\6_silicuana_ZEGARPG.exe
+C:\Users\alumno.ET37\Documents\Etapa\6_silicuana_ZEGARPG\6_silicuana_ZEGARPG\obj\Debug\6_silicuana_ZEGARPG.pdb
