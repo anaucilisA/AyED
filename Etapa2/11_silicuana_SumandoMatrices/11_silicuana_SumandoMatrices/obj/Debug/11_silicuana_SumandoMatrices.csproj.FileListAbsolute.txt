@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Desktop\Etapa 2\11_silicuana_SumandoMatrices\11_silicuana_SumandoMatrices\bin\Debug\11_silicuana_SumandoMatrices.exe.config
+C:\Users\alumno.ET37\Desktop\Etapa 2\11_silicuana_SumandoMatrices\11_silicuana_SumandoMatrices\bin\Debug\11_silicuana_SumandoMatrices.exe
+C:\Users\alumno.ET37\Desktop\Etapa 2\11_silicuana_SumandoMatrices\11_silicuana_SumandoMatrices\bin\Debug\11_silicuana_SumandoMatrices.pdb
+C:\Users\alumno.ET37\Desktop\Etapa 2\11_silicuana_SumandoMatrices\11_silicuana_SumandoMatrices\obj\Debug\11_silicuana_SumandoMatrices.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Desktop\Etapa 2\11_silicuana_SumandoMatrices\11_silicuana_SumandoMatrices\obj\Debug\11_silicuana_SumandoMatrices.exe
+C:\Users\alumno.ET37\Desktop\Etapa 2\11_silicuana_SumandoMatrices\11_silicuana_SumandoMatrices\obj\Debug\11_silicuana_SumandoMatrices.pdb
