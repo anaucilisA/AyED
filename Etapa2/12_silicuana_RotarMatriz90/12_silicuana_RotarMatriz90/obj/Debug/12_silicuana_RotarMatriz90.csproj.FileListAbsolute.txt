@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\Etapa 2\12_silicuana_RotarMatriz90\12_silicuana_RotarMatriz90\bin\Debug\12_silicuana_RotarMatriz90.exe.config
+C:\Users\alumno.ET37\Desktop\Etapa 2\12_silicuana_RotarMatriz90\12_silicuana_RotarMatriz90\bin\Debug\12_silicuana_RotarMatriz90.exe
+C:\Users\alumno.ET37\Desktop\Etapa 2\12_silicuana_RotarMatriz90\12_silicuana_RotarMatriz90\bin\Debug\12_silicuana_RotarMatriz90.pdb
+C:\Users\alumno.ET37\Desktop\Etapa 2\12_silicuana_RotarMatriz90\12_silicuana_RotarMatriz90\obj\Debug\12_silicuana_RotarMatriz90.exe
+C:\Users\alumno.ET37\Desktop\Etapa 2\12_silicuana_RotarMatriz90\12_silicuana_RotarMatriz90\obj\Debug\12_silicuana_RotarMatriz90.pdb

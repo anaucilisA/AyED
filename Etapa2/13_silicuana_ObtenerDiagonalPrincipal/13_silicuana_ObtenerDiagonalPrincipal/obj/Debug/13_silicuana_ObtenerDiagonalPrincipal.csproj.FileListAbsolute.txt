@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Desktop\Etapa 2\13_silicuana_ObtenerDiagonalPrincipal\13_silicuana_ObtenerDiagonalPrincipal\bin\Debug\13_silicuana_ObtenerDiagonalPrincipal.exe.config
+C:\Users\alumno.ET37\Desktop\Etapa 2\13_silicuana_ObtenerDiagonalPrincipal\13_silicuana_ObtenerDiagonalPrincipal\bin\Debug\13_silicuana_ObtenerDiagonalPrincipal.exe
+C:\Users\alumno.ET37\Desktop\Etapa 2\13_silicuana_ObtenerDiagonalPrincipal\13_silicuana_ObtenerDiagonalPrincipal\bin\Debug\13_silicuana_ObtenerDiagonalPrincipal.pdb
+C:\Users\alumno.ET37\Desktop\Etapa 2\13_silicuana_ObtenerDiagonalPrincipal\13_silicuana_ObtenerDiagonalPrincipal\obj\Debug\13_silicuana_ObtenerDiagonalPrincipal.exe
+C:\Users\alumno.ET37\Desktop\Etapa 2\13_silicuana_ObtenerDiagonalPrincipal\13_silicuana_ObtenerDiagonalPrincipal\obj\Debug\13_silicuana_ObtenerDiagonalPrincipal.pdb
