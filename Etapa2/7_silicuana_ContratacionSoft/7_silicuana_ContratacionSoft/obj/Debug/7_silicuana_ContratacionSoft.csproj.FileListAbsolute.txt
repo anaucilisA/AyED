@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Etapa\7_silicuana_ContratacionSoft\7_silicuana_ContratacionSoft\bin\Debug\7_silicuana_ContratacionSoft.exe.config
+C:\Users\alumno.ET37\Documents\Etapa\7_silicuana_ContratacionSoft\7_silicuana_ContratacionSoft\bin\Debug\7_silicuana_ContratacionSoft.exe
+C:\Users\alumno.ET37\Documents\Etapa\7_silicuana_ContratacionSoft\7_silicuana_ContratacionSoft\bin\Debug\7_silicuana_ContratacionSoft.pdb
+C:\Users\alumno.ET37\Documents\Etapa\7_silicuana_ContratacionSoft\7_silicuana_ContratacionSoft\obj\Debug\7_silicuana_ContratacionSoft.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa\7_silicuana_ContratacionSoft\7_silicuana_ContratacionSoft\obj\Debug\7_silicuana_ContratacionSoft.exe
+C:\Users\alumno.ET37\Documents\Etapa\7_silicuana_ContratacionSoft\7_silicuana_ContratacionSoft\obj\Debug\7_silicuana_ContratacionSoft.pdb
