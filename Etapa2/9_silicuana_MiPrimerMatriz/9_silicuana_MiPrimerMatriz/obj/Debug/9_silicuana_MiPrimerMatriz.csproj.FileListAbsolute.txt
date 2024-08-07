@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\eeeee\9_silicuana_MiPrimerMatriz\9_silicuana_MiPrimerMatriz\bin\Debug\9_silicuana_MiPrimerMatriz.exe.config
+C:\Users\alumno.ET37\Documents\eeeee\9_silicuana_MiPrimerMatriz\9_silicuana_MiPrimerMatriz\bin\Debug\9_silicuana_MiPrimerMatriz.exe
+C:\Users\alumno.ET37\Documents\eeeee\9_silicuana_MiPrimerMatriz\9_silicuana_MiPrimerMatriz\bin\Debug\9_silicuana_MiPrimerMatriz.pdb
+C:\Users\alumno.ET37\Documents\eeeee\9_silicuana_MiPrimerMatriz\9_silicuana_MiPrimerMatriz\obj\Debug\9_silicuana_MiPrimerMatriz.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\eeeee\9_silicuana_MiPrimerMatriz\9_silicuana_MiPrimerMatriz\obj\Debug\9_silicuana_MiPrimerMatriz.exe
+C:\Users\alumno.ET37\Documents\eeeee\9_silicuana_MiPrimerMatriz\9_silicuana_MiPrimerMatriz\obj\Debug\9_silicuana_MiPrimerMatriz.pdb

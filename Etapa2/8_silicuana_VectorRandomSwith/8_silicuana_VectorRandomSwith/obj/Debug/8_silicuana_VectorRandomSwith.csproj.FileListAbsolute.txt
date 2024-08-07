@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\eeeee\8_silicuana_VectorRandomSwith\8_silicuana_VectorRandomSwith\bin\Debug\8_silicuana_VectorRandomSwith.exe.config
+C:\Users\alumno.ET37\Documents\eeeee\8_silicuana_VectorRandomSwith\8_silicuana_VectorRandomSwith\bin\Debug\8_silicuana_VectorRandomSwith.exe
+C:\Users\alumno.ET37\Documents\eeeee\8_silicuana_VectorRandomSwith\8_silicuana_VectorRandomSwith\bin\Debug\8_silicuana_VectorRandomSwith.pdb
+C:\Users\alumno.ET37\Documents\eeeee\8_silicuana_VectorRandomSwith\8_silicuana_VectorRandomSwith\obj\Debug\8_silicuana_VectorRandomSwith.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\eeeee\8_silicuana_VectorRandomSwith\8_silicuana_VectorRandomSwith\obj\Debug\8_silicuana_VectorRandomSwith.exe
+C:\Users\alumno.ET37\Documents\eeeee\8_silicuana_VectorRandomSwith\8_silicuana_VectorRandomSwith\obj\Debug\8_silicuana_VectorRandomSwith.pdb
