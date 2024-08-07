@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\eeeee\10_silicuana_MatriuzAleatoria\10_silicuana_MatriuzAleatoria\bin\Debug\10_silicuana_MatriuzAleatoria.exe.config
+C:\Users\alumno.ET37\Documents\eeeee\10_silicuana_MatriuzAleatoria\10_silicuana_MatriuzAleatoria\bin\Debug\10_silicuana_MatriuzAleatoria.exe
+C:\Users\alumno.ET37\Documents\eeeee\10_silicuana_MatriuzAleatoria\10_silicuana_MatriuzAleatoria\bin\Debug\10_silicuana_MatriuzAleatoria.pdb
+C:\Users\alumno.ET37\Documents\eeeee\10_silicuana_MatriuzAleatoria\10_silicuana_MatriuzAleatoria\obj\Debug\10_silicuana_MatriuzAleatoria.exe
+C:\Users\alumno.ET37\Documents\eeeee\10_silicuana_MatriuzAleatoria\10_silicuana_MatriuzAleatoria\obj\Debug\10_silicuana_MatriuzAleatoria.pdb
