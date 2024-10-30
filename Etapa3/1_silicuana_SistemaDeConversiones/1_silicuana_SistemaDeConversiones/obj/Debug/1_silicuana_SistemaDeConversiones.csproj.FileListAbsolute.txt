@@ -1,0 +1,5 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\1_silicuana_SistemaDeConversiones\1_silicuana_SistemaDeConversiones\bin\Debug\1_silicuana_SistemaDeConversiones.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\1_silicuana_SistemaDeConversiones\1_silicuana_SistemaDeConversiones\bin\Debug\1_silicuana_SistemaDeConversiones.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\1_silicuana_SistemaDeConversiones\1_silicuana_SistemaDeConversiones\bin\Debug\1_silicuana_SistemaDeConversiones.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\1_silicuana_SistemaDeConversiones\1_silicuana_SistemaDeConversiones\obj\Debug\1_silicuana_SistemaDeConversiones.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\1_silicuana_SistemaDeConversiones\1_silicuana_SistemaDeConversiones\obj\Debug\1_silicuana_SistemaDeConversiones.pdb

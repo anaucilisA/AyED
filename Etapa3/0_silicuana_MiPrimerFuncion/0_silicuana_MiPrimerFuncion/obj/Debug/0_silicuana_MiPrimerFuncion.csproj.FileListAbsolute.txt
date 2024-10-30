@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\0_silicuana_MiPrimerFuncion\0_silicuana_MiPrimerFuncion\bin\Debug\0_silicuana_MiPrimerFuncion.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\0_silicuana_MiPrimerFuncion\0_silicuana_MiPrimerFuncion\bin\Debug\0_silicuana_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\0_silicuana_MiPrimerFuncion\0_silicuana_MiPrimerFuncion\bin\Debug\0_silicuana_MiPrimerFuncion.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\0_silicuana_MiPrimerFuncion\0_silicuana_MiPrimerFuncion\obj\Debug\0_silicuana_MiPrimerFuncion.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\0_silicuana_MiPrimerFuncion\0_silicuana_MiPrimerFuncion\obj\Debug\0_silicuana_MiPrimerFuncion.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\0_silicuana_MiPrimerFuncion\0_silicuana_MiPrimerFuncion\obj\Debug\0_silicuana_MiPrimerFuncion.pdb
