@@ -1,0 +1,6 @@
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\2_silicuana_AreaVolumen\2_silicuana_AreaVolumen\bin\Debug\2_silicuana_AreaVolumen.exe.config
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\2_silicuana_AreaVolumen\2_silicuana_AreaVolumen\bin\Debug\2_silicuana_AreaVolumen.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\2_silicuana_AreaVolumen\2_silicuana_AreaVolumen\bin\Debug\2_silicuana_AreaVolumen.pdb
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\2_silicuana_AreaVolumen\2_silicuana_AreaVolumen\obj\Debug\2_silicuana_AreaVolumen.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\2_silicuana_AreaVolumen\2_silicuana_AreaVolumen\obj\Debug\2_silicuana_AreaVolumen.exe
+C:\Users\alumno.ET37\Documents\Visual Studio 2015\Projects\Etapa3\2_silicuana_AreaVolumen\2_silicuana_AreaVolumen\obj\Debug\2_silicuana_AreaVolumen.pdb
