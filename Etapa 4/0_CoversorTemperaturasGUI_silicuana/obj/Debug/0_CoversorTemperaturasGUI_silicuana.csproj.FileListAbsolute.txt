@@ -1,0 +1,9 @@
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\bin\Debug\0_CoversorTemperaturasGUI_silicuana.exe.config
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\bin\Debug\0_CoversorTemperaturasGUI_silicuana.exe
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\bin\Debug\0_CoversorTemperaturasGUI_silicuana.pdb
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\obj\Debug\0_CoversorTemperaturasGUI_silicuana.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\obj\Debug\_0_CoversorTemperaturasGUI_silicuana.Form1.resources
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\obj\Debug\_0_CoversorTemperaturasGUI_silicuana.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\obj\Debug\0_CoversorTemperaturasGUI_silicuana.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\obj\Debug\0_CoversorTemperaturasGUI_silicuana.exe
+C:\Users\alumno.ET37\Documents\eTAPA\0_CoversorTemperaturasGUI_silicuana\obj\Debug\0_CoversorTemperaturasGUI_silicuana.pdb
