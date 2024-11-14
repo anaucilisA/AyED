@@ -1,0 +1,10 @@
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\bin\Debug\4 - CreadorPersonajeRol.exe.config
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\bin\Debug\4 - CreadorPersonajeRol.exe
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\bin\Debug\4 - CreadorPersonajeRol.pdb
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\obj\Debug\4 - CreadorPersonajeRol.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\obj\Debug\_4___CreadorPersonajeRol.Form1.resources
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\obj\Debug\_4___CreadorPersonajeRol.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\obj\Debug\4 - CreadorPersonajeRol.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\obj\Debug\4 - CreadorPersonajeRol.exe
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\obj\Debug\4 - CreadorPersonajeRol.pdb
+C:\Users\alumno.ET37\Documents\Etapa4\4 - CreadorPersonajeRol\4 - CreadorPersonajeRol\obj\Debug\_4___CreadorPersonajeRol.Form2.resources

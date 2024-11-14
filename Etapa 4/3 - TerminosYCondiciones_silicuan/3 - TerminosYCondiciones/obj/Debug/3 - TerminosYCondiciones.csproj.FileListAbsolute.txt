@@ -1,0 +1,8 @@
+C:\Users\alumno.ET37\Documents\Etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\bin\Debug\3 - TerminosYCondiciones.exe.config
+C:\Users\alumno.ET37\Documents\Etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\bin\Debug\3 - TerminosYCondiciones.exe
+C:\Users\alumno.ET37\Documents\Etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\bin\Debug\3 - TerminosYCondiciones.pdb
+C:\Users\alumno.ET37\Documents\Etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\_3___TerminosYCondiciones.Form1.resources
+C:\Users\alumno.ET37\Documents\Etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\_3___TerminosYCondiciones.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\3 - TerminosYCondiciones.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\3 - TerminosYCondiciones.exe
+C:\Users\alumno.ET37\Documents\Etapa4\3 - TerminosYCondiciones\3 - TerminosYCondiciones\obj\Debug\3 - TerminosYCondiciones.pdb
