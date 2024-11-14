@@ -1,0 +1,12 @@
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\bin\Debug\5 - MiPrimerMenuGUI.exe.config
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\bin\Debug\5 - MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\bin\Debug\5 - MiPrimerMenuGUI.pdb
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\5 - MiPrimerMenuGUI.csprojResolveAssemblyReference.cache
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\_5___MiPrimerMenuGUI.Form1.resources
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\_5___MiPrimerMenuGUI.Form2.resources
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\_5___MiPrimerMenuGUI.Form3.resources
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\_5___MiPrimerMenuGUI.Form4.resources
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\_5___MiPrimerMenuGUI.Properties.Resources.resources
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\5 - MiPrimerMenuGUI.csproj.GenerateResource.Cache
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\5 - MiPrimerMenuGUI.exe
+C:\Users\alumno.ET37\Documents\Etapa4\5 - MiPrimerMenuGUI\5 - MiPrimerMenuGUI\obj\Debug\5 - MiPrimerMenuGUI.pdb
